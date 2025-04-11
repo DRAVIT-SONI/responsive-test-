@@ -1,0 +1,22 @@
+.headings{background-color:#333;height: 200px;text-align: center;color: white;font-size: 25px;margin: -31px;padding-top: 35px;}
+
+.link{color: white;font-size: 20px;margin: 15px;}
+
+
+.h3{font-size: 25px;margin-left: 25px}
+.p1{margin-left: 25px;}
+
+.h4{margin-left: 25px;}
+
+
+.box1{border: 1px solid lightgray;background-color: white;height: 50px;}
+.box2{border: 1px solid lightgray;background-color: white;height: 50px;}
+.box3{border: 1px solid lightgray;background-color: white;height: 50px;}
+
+body{background-color: #f4f4f4;}
+
+.foot{text-align: center;margin-top: 100px;color: crimson;font-weight: 800;font-size: 20px;}
+
+.rate{background-color: black;color: white;height: 80px;text-align: center;font-style: italic;font-size: 20px;}
+.ratep{padding-top: 10px;}
+.button{margin-left: 730px;margin-top: 20px;width: 200px;}
